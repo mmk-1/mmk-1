@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mohammad Mahdi but most people just call me Mahdi. I am interested in computer science and technology. I am a newbie in github and still don't know how it works, ZOINKS!
+<!-- My name is Mohammad Mahdi but most people just call me Mahdi. I am interested in computer science and technology. I am a newbie in github and still don't know how it works, ZOINKS!
 
 - 🔭 I’m currently working on improving my coding skills.
 
@@ -7,7 +7,7 @@ My name is Mohammad Mahdi but most people just call me Mahdi. I am interested in
 
 - 🤔 I’m looking for help with github.
 
-- ⚡ Fun fact: I like whitespaces a lot.
+- ⚡ Fun fact: I like whitespaces a lot. -->
 
 
 <!--
